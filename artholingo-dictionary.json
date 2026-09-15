@@ -1,0 +1,6701 @@
+{
+  "version": "1.1.0",
+  "language_pair": "en-bn",
+  "mode": "allowlist",
+  "description": "Local allowlist dictionary with high-priority English grammar/function words. Unknown words never call a translation API.",
+  "entries": {
+    "a": {
+      "word": "a",
+      "lemma": "a",
+      "meaning_bn": "একটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "about": {
+      "word": "about",
+      "lemma": "about",
+      "meaning_bn": "সম্পর্কে / প্রায়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "above": {
+      "word": "above",
+      "lemma": "above",
+      "meaning_bn": "উপরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "across": {
+      "word": "across",
+      "lemma": "across",
+      "meaning_bn": "এপার-ওপার / জুড়ে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "adjective": {
+      "word": "adjective",
+      "lemma": "adjective",
+      "meaning_bn": "বিশেষণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "adverb": {
+      "word": "adverb",
+      "lemma": "adverb",
+      "meaning_bn": "ক্রিয়া বিশেষণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "after": {
+      "word": "after",
+      "lemma": "after",
+      "meaning_bn": "পরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "afternoon": {
+      "word": "afternoon",
+      "lemma": "afternoon",
+      "meaning_bn": "দুপুর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "again": {
+      "word": "again",
+      "lemma": "again",
+      "meaning_bn": "আবার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "against": {
+      "word": "against",
+      "lemma": "against",
+      "meaning_bn": "বিরুদ্ধে / বিপরীতে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "air": {
+      "word": "air",
+      "lemma": "air",
+      "meaning_bn": "বায়ু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "airport": {
+      "word": "airport",
+      "lemma": "airport",
+      "meaning_bn": "বিমানবন্দর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "all": {
+      "word": "all",
+      "lemma": "all",
+      "meaning_bn": "সব / সকল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "almost": {
+      "word": "almost",
+      "lemma": "almost",
+      "meaning_bn": "প্রায়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "along": {
+      "word": "along",
+      "lemma": "along",
+      "meaning_bn": "বরাবর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "already": {
+      "word": "already",
+      "lemma": "already",
+      "meaning_bn": "ইতিমধ্যে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "also": {
+      "word": "also",
+      "lemma": "also",
+      "meaning_bn": "এছাড়াও",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "although": {
+      "word": "although",
+      "lemma": "although",
+      "meaning_bn": "যদিও",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "always": {
+      "word": "always",
+      "lemma": "always",
+      "meaning_bn": "সবসময়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "am": {
+      "word": "am",
+      "lemma": "am",
+      "meaning_bn": "হই / আছি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "among": {
+      "word": "among",
+      "lemma": "among",
+      "meaning_bn": "মধ্যে / অনেকের মাঝে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "an": {
+      "word": "an",
+      "lemma": "an",
+      "meaning_bn": "একটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "and": {
+      "word": "and",
+      "lemma": "and",
+      "meaning_bn": "এবং",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "animal": {
+      "word": "animal",
+      "lemma": "animal",
+      "meaning_bn": "প্রাণী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "another": {
+      "word": "another",
+      "lemma": "another",
+      "meaning_bn": "আরেকটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "answer": {
+      "word": "answer",
+      "lemma": "answer",
+      "meaning_bn": "উত্তর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "any": {
+      "word": "any",
+      "lemma": "any",
+      "meaning_bn": "যেকোনো / কোনো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "are": {
+      "word": "are",
+      "lemma": "are",
+      "meaning_bn": "হয় / আছেন / আছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "area": {
+      "word": "area",
+      "lemma": "area",
+      "meaning_bn": "এলাকা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "aren't": {
+      "word": "aren't",
+      "lemma": "aren't",
+      "meaning_bn": "নয় / নেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "around": {
+      "word": "around",
+      "lemma": "around",
+      "meaning_bn": "চারপাশে / প্রায়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "as": {
+      "word": "as",
+      "lemma": "as",
+      "meaning_bn": "যেমন / হিসেবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "ask": {
+      "word": "ask",
+      "lemma": "ask",
+      "meaning_bn": "জিজ্ঞাসা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "at": {
+      "word": "at",
+      "lemma": "at",
+      "meaning_bn": "এ / কাছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "available": {
+      "word": "available",
+      "lemma": "available",
+      "meaning_bn": "উপলভ্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bad": {
+      "word": "bad",
+      "lemma": "bad",
+      "meaning_bn": "খারাপ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bangla": {
+      "word": "bangla",
+      "lemma": "bangla",
+      "meaning_bn": "বাংলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "be": {
+      "word": "be",
+      "lemma": "be",
+      "meaning_bn": "হওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "beautiful": {
+      "word": "beautiful",
+      "lemma": "beautiful",
+      "meaning_bn": "সুন্দর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "beautifully": {
+      "word": "beautifully",
+      "lemma": "beautifully",
+      "meaning_bn": "সুন্দরভাবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "because": {
+      "word": "because",
+      "lemma": "because",
+      "meaning_bn": "কারণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "become": {
+      "word": "become",
+      "lemma": "become",
+      "meaning_bn": "হয়ে ওঠা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "been": {
+      "word": "been",
+      "lemma": "been",
+      "meaning_bn": "হয়েছে / ছিল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "before": {
+      "word": "before",
+      "lemma": "before",
+      "meaning_bn": "আগে / পূর্বে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "begin": {
+      "word": "begin",
+      "lemma": "begin",
+      "meaning_bn": "শুরু করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "behind": {
+      "word": "behind",
+      "lemma": "behind",
+      "meaning_bn": "পেছনে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "being": {
+      "word": "being",
+      "lemma": "being",
+      "meaning_bn": "হওয়া / থাকা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "believe": {
+      "word": "believe",
+      "lemma": "believe",
+      "meaning_bn": "বিশ্বাস করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "below": {
+      "word": "below",
+      "lemma": "below",
+      "meaning_bn": "নিচে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "benefit": {
+      "word": "benefit",
+      "lemma": "benefit",
+      "meaning_bn": "সুবিধা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bengali": {
+      "word": "bengali",
+      "lemma": "bengali",
+      "meaning_bn": "বাংলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "beside": {
+      "word": "beside",
+      "lemma": "beside",
+      "meaning_bn": "পাশে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "between": {
+      "word": "between",
+      "lemma": "between",
+      "meaning_bn": "মধ্যে / দুটির মাঝে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "big": {
+      "word": "big",
+      "lemma": "big",
+      "meaning_bn": "বড়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bird": {
+      "word": "bird",
+      "lemma": "bird",
+      "meaning_bn": "পাখি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "blood": {
+      "word": "blood",
+      "lemma": "blood",
+      "meaning_bn": "রক্ত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "body": {
+      "word": "body",
+      "lemma": "body",
+      "meaning_bn": "শরীর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "book": {
+      "word": "book",
+      "lemma": "book",
+      "meaning_bn": "বই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "border": {
+      "word": "border",
+      "lemma": "border",
+      "meaning_bn": "সীমান্ত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "both": {
+      "word": "both",
+      "lemma": "both",
+      "meaning_bn": "উভয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "boy": {
+      "word": "boy",
+      "lemma": "boy",
+      "meaning_bn": "ছেলে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bread": {
+      "word": "bread",
+      "lemma": "bread",
+      "meaning_bn": "রুটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bring": {
+      "word": "bring",
+      "lemma": "bring",
+      "meaning_bn": "আনা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "brother": {
+      "word": "brother",
+      "lemma": "brother",
+      "meaning_bn": "ভাই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "build": {
+      "word": "build",
+      "lemma": "build",
+      "meaning_bn": "নির্মাণ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "bus": {
+      "word": "bus",
+      "lemma": "bus",
+      "meaning_bn": "বাস",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "business": {
+      "word": "business",
+      "lemma": "business",
+      "meaning_bn": "ব্যবসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "but": {
+      "word": "but",
+      "lemma": "but",
+      "meaning_bn": "কিন্তু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "button": {
+      "word": "button",
+      "lemma": "button",
+      "meaning_bn": "বোতাম",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "buy": {
+      "word": "buy",
+      "lemma": "buy",
+      "meaning_bn": "কেনা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "by": {
+      "word": "by",
+      "lemma": "by",
+      "meaning_bn": "দ্বারা / কাছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "call": {
+      "word": "call",
+      "lemma": "call",
+      "meaning_bn": "ডাকা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "came": {
+      "word": "came",
+      "lemma": "came",
+      "meaning_bn": "আসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "camera": {
+      "word": "camera",
+      "lemma": "camera",
+      "meaning_bn": "ক্যামেরা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "can": {
+      "word": "can",
+      "lemma": "can",
+      "meaning_bn": "পারা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "can't": {
+      "word": "can't",
+      "lemma": "can't",
+      "meaning_bn": "পারে না / পারি না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "car": {
+      "word": "car",
+      "lemma": "car",
+      "meaning_bn": "গাড়ি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "care": {
+      "word": "care",
+      "lemma": "care",
+      "meaning_bn": "যত্ন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "carefully": {
+      "word": "carefully",
+      "lemma": "carefully",
+      "meaning_bn": "সতর্কভাবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "case": {
+      "word": "case",
+      "lemma": "case",
+      "meaning_bn": "ক্ষেত্র",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "cause": {
+      "word": "cause",
+      "lemma": "cause",
+      "meaning_bn": "কারণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "chance": {
+      "word": "chance",
+      "lemma": "chance",
+      "meaning_bn": "সুযোগ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "change": {
+      "word": "change",
+      "lemma": "change",
+      "meaning_bn": "পরিবর্তন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "changed": {
+      "word": "changed",
+      "lemma": "changed",
+      "meaning_bn": "পরিবর্তন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "changes": {
+      "word": "changes",
+      "lemma": "changes",
+      "meaning_bn": "পরিবর্তন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "changing": {
+      "word": "changing",
+      "lemma": "changing",
+      "meaning_bn": "পরিবর্তন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "child": {
+      "word": "child",
+      "lemma": "child",
+      "meaning_bn": "শিশু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "choice": {
+      "word": "choice",
+      "lemma": "choice",
+      "meaning_bn": "পছন্দ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "choose": {
+      "word": "choose",
+      "lemma": "choose",
+      "meaning_bn": "বেছে নেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "city": {
+      "word": "city",
+      "lemma": "city",
+      "meaning_bn": "শহর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "class": {
+      "word": "class",
+      "lemma": "class",
+      "meaning_bn": "শ্রেণি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "clear": {
+      "word": "clear",
+      "lemma": "clear",
+      "meaning_bn": "স্পষ্ট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "clearly": {
+      "word": "clearly",
+      "lemma": "clearly",
+      "meaning_bn": "স্পষ্টভাবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "climate": {
+      "word": "climate",
+      "lemma": "climate",
+      "meaning_bn": "জলবায়ু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "close": {
+      "word": "close",
+      "lemma": "close",
+      "meaning_bn": "বন্ধ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "closed": {
+      "word": "closed",
+      "lemma": "closed",
+      "meaning_bn": "বন্ধ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "closes": {
+      "word": "closes",
+      "lemma": "closes",
+      "meaning_bn": "বন্ধ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "closing": {
+      "word": "closing",
+      "lemma": "closing",
+      "meaning_bn": "বন্ধ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "coffee": {
+      "word": "coffee",
+      "lemma": "coffee",
+      "meaning_bn": "কফি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "college": {
+      "word": "college",
+      "lemma": "college",
+      "meaning_bn": "কলেজ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "come": {
+      "word": "come",
+      "lemma": "come",
+      "meaning_bn": "আসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "comes": {
+      "word": "comes",
+      "lemma": "comes",
+      "meaning_bn": "আসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "coming": {
+      "word": "coming",
+      "lemma": "coming",
+      "meaning_bn": "আসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "common": {
+      "word": "common",
+      "lemma": "common",
+      "meaning_bn": "সাধারণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "community": {
+      "word": "community",
+      "lemma": "community",
+      "meaning_bn": "সম্প্রদায়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "company": {
+      "word": "company",
+      "lemma": "company",
+      "meaning_bn": "কোম্পানি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "computer": {
+      "word": "computer",
+      "lemma": "computer",
+      "meaning_bn": "কম্পিউটার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "conjunction": {
+      "word": "conjunction",
+      "lemma": "conjunction",
+      "meaning_bn": "সংযোজক অব্যয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "continue": {
+      "word": "continue",
+      "lemma": "continue",
+      "meaning_bn": "চালিয়ে যাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "control": {
+      "word": "control",
+      "lemma": "control",
+      "meaning_bn": "নিয়ন্ত্রণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "correct": {
+      "word": "correct",
+      "lemma": "correct",
+      "meaning_bn": "সঠিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "could": {
+      "word": "could",
+      "lemma": "could",
+      "meaning_bn": "পারত / পারতেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "couldn't": {
+      "word": "couldn't",
+      "lemma": "couldn't",
+      "meaning_bn": "পারত না / পারেননি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "country": {
+      "word": "country",
+      "lemma": "country",
+      "meaning_bn": "দেশ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "create": {
+      "word": "create",
+      "lemma": "create",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "created": {
+      "word": "created",
+      "lemma": "created",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "creates": {
+      "word": "creates",
+      "lemma": "creates",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "creating": {
+      "word": "creating",
+      "lemma": "creating",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "culture": {
+      "word": "culture",
+      "lemma": "culture",
+      "meaning_bn": "সংস্কৃতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "customer": {
+      "word": "customer",
+      "lemma": "customer",
+      "meaning_bn": "গ্রাহক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "dare": {
+      "word": "dare",
+      "lemma": "dare",
+      "meaning_bn": "সাহস করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "data": {
+      "word": "data",
+      "lemma": "data",
+      "meaning_bn": "উপাত্ত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "database": {
+      "word": "database",
+      "lemma": "database",
+      "meaning_bn": "ডেটাবেস",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "day": {
+      "word": "day",
+      "lemma": "day",
+      "meaning_bn": "দিন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "death": {
+      "word": "death",
+      "lemma": "death",
+      "meaning_bn": "মৃত্যু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "decide": {
+      "word": "decide",
+      "lemma": "decide",
+      "meaning_bn": "সিদ্ধান্ত নেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "decision": {
+      "word": "decision",
+      "lemma": "decision",
+      "meaning_bn": "সিদ্ধান্ত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "decrease": {
+      "word": "decrease",
+      "lemma": "decrease",
+      "meaning_bn": "কমানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "decreased": {
+      "word": "decreased",
+      "lemma": "decreased",
+      "meaning_bn": "কমানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "decreases": {
+      "word": "decreases",
+      "lemma": "decreases",
+      "meaning_bn": "কমানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "decreasing": {
+      "word": "decreasing",
+      "lemma": "decreasing",
+      "meaning_bn": "কমানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "describe": {
+      "word": "describe",
+      "lemma": "describe",
+      "meaning_bn": "বর্ণনা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "develop": {
+      "word": "develop",
+      "lemma": "develop",
+      "meaning_bn": "উন্নয়ন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "developed": {
+      "word": "developed",
+      "lemma": "developed",
+      "meaning_bn": "উন্নয়ন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "developing": {
+      "word": "developing",
+      "lemma": "developing",
+      "meaning_bn": "উন্নয়ন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "development": {
+      "word": "development",
+      "lemma": "development",
+      "meaning_bn": "উন্নয়ন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "develops": {
+      "word": "develops",
+      "lemma": "develops",
+      "meaning_bn": "উন্নয়ন করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "did": {
+      "word": "did",
+      "lemma": "did",
+      "meaning_bn": "করেছিল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "didn't": {
+      "word": "didn't",
+      "lemma": "didn't",
+      "meaning_bn": "করেনি / করেননি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "difference": {
+      "word": "difference",
+      "lemma": "difference",
+      "meaning_bn": "পার্থক্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "different": {
+      "word": "different",
+      "lemma": "different",
+      "meaning_bn": "ভিন্ন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "difficult": {
+      "word": "difficult",
+      "lemma": "difficult",
+      "meaning_bn": "কঠিন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "disease": {
+      "word": "disease",
+      "lemma": "disease",
+      "meaning_bn": "রোগ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "do": {
+      "word": "do",
+      "lemma": "do",
+      "meaning_bn": "করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "doctor": {
+      "word": "doctor",
+      "lemma": "doctor",
+      "meaning_bn": "চিকিৎসক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "does": {
+      "word": "does",
+      "lemma": "does",
+      "meaning_bn": "করে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "doesn't": {
+      "word": "doesn't",
+      "lemma": "doesn't",
+      "meaning_bn": "করে না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "don't": {
+      "word": "don't",
+      "lemma": "don't",
+      "meaning_bn": "করি না / করবেন না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "door": {
+      "word": "door",
+      "lemma": "door",
+      "meaning_bn": "দরজা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "during": {
+      "word": "during",
+      "lemma": "during",
+      "meaning_bn": "সময়ে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "each": {
+      "word": "each",
+      "lemma": "each",
+      "meaning_bn": "প্রত্যেক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "ear": {
+      "word": "ear",
+      "lemma": "ear",
+      "meaning_bn": "কান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "early": {
+      "word": "early",
+      "lemma": "early",
+      "meaning_bn": "প্রারম্ভিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "earth": {
+      "word": "earth",
+      "lemma": "earth",
+      "meaning_bn": "পৃথিবী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "easily": {
+      "word": "easily",
+      "lemma": "easily",
+      "meaning_bn": "সহজে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "easy": {
+      "word": "easy",
+      "lemma": "easy",
+      "meaning_bn": "সহজ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "economic": {
+      "word": "economic",
+      "lemma": "economic",
+      "meaning_bn": "অর্থনৈতিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "economy": {
+      "word": "economy",
+      "lemma": "economy",
+      "meaning_bn": "অর্থনীতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "education": {
+      "word": "education",
+      "lemma": "education",
+      "meaning_bn": "শিক্ষা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "effect": {
+      "word": "effect",
+      "lemma": "effect",
+      "meaning_bn": "প্রভাব",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "either": {
+      "word": "either",
+      "lemma": "either",
+      "meaning_bn": "দুটির যেকোনো একটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "email": {
+      "word": "email",
+      "lemma": "email",
+      "meaning_bn": "ই-মেইল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "empty": {
+      "word": "empty",
+      "lemma": "empty",
+      "meaning_bn": "খালি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "end": {
+      "word": "end",
+      "lemma": "end",
+      "meaning_bn": "শেষ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "ended": {
+      "word": "ended",
+      "lemma": "ended",
+      "meaning_bn": "শেষ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "ending": {
+      "word": "ending",
+      "lemma": "ending",
+      "meaning_bn": "শেষ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "ends": {
+      "word": "ends",
+      "lemma": "ends",
+      "meaning_bn": "শেষ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "energy": {
+      "word": "energy",
+      "lemma": "energy",
+      "meaning_bn": "শক্তি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "engineer": {
+      "word": "engineer",
+      "lemma": "engineer",
+      "meaning_bn": "প্রকৌশলী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "england": {
+      "word": "england",
+      "lemma": "england",
+      "meaning_bn": "ইংল্যান্ড",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "english": {
+      "word": "english",
+      "lemma": "english",
+      "meaning_bn": "ইংরেজি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "enough": {
+      "word": "enough",
+      "lemma": "enough",
+      "meaning_bn": "যথেষ্ট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "environment": {
+      "word": "environment",
+      "lemma": "environment",
+      "meaning_bn": "পরিবেশ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "especially": {
+      "word": "especially",
+      "lemma": "especially",
+      "meaning_bn": "বিশেষ করে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "even": {
+      "word": "even",
+      "lemma": "even",
+      "meaning_bn": "এমনকি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "evening": {
+      "word": "evening",
+      "lemma": "evening",
+      "meaning_bn": "সন্ধ্যা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "every": {
+      "word": "every",
+      "lemma": "every",
+      "meaning_bn": "প্রতিটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "evidence": {
+      "word": "evidence",
+      "lemma": "evidence",
+      "meaning_bn": "প্রমাণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "exam": {
+      "word": "exam",
+      "lemma": "exam",
+      "meaning_bn": "পরীক্ষা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "example": {
+      "word": "example",
+      "lemma": "example",
+      "meaning_bn": "উদাহরণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "exercise": {
+      "word": "exercise",
+      "lemma": "exercise",
+      "meaning_bn": "অনুশীলন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "experience": {
+      "word": "experience",
+      "lemma": "experience",
+      "meaning_bn": "অভিজ্ঞতা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "explain": {
+      "word": "explain",
+      "lemma": "explain",
+      "meaning_bn": "ব্যাখ্যা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "explained": {
+      "word": "explained",
+      "lemma": "explained",
+      "meaning_bn": "ব্যাখ্যা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "explaining": {
+      "word": "explaining",
+      "lemma": "explaining",
+      "meaning_bn": "ব্যাখ্যা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "explains": {
+      "word": "explains",
+      "lemma": "explains",
+      "meaning_bn": "ব্যাখ্যা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "eye": {
+      "word": "eye",
+      "lemma": "eye",
+      "meaning_bn": "চোখ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "face": {
+      "word": "face",
+      "lemma": "face",
+      "meaning_bn": "মুখ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "failure": {
+      "word": "failure",
+      "lemma": "failure",
+      "meaning_bn": "ব্যর্থতা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "false": {
+      "word": "false",
+      "lemma": "false",
+      "meaning_bn": "মিথ্যা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "family": {
+      "word": "family",
+      "lemma": "family",
+      "meaning_bn": "পরিবার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "farmer": {
+      "word": "farmer",
+      "lemma": "farmer",
+      "meaning_bn": "কৃষক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "father": {
+      "word": "father",
+      "lemma": "father",
+      "meaning_bn": "বাবা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "feel": {
+      "word": "feel",
+      "lemma": "feel",
+      "meaning_bn": "অনুভব করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "few": {
+      "word": "few",
+      "lemma": "few",
+      "meaning_bn": "অল্প কয়েকটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "file": {
+      "word": "file",
+      "lemma": "file",
+      "meaning_bn": "ফাইল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "find": {
+      "word": "find",
+      "lemma": "find",
+      "meaning_bn": "খুঁজে পাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "fire": {
+      "word": "fire",
+      "lemma": "fire",
+      "meaning_bn": "আগুন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "fish": {
+      "word": "fish",
+      "lemma": "fish",
+      "meaning_bn": "মাছ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "flower": {
+      "word": "flower",
+      "lemma": "flower",
+      "meaning_bn": "ফুল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "follow": {
+      "word": "follow",
+      "lemma": "follow",
+      "meaning_bn": "অনুসরণ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "food": {
+      "word": "food",
+      "lemma": "food",
+      "meaning_bn": "খাবার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "for": {
+      "word": "for",
+      "lemma": "for",
+      "meaning_bn": "জন্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "forest": {
+      "word": "forest",
+      "lemma": "forest",
+      "meaning_bn": "বন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "forget": {
+      "word": "forget",
+      "lemma": "forget",
+      "meaning_bn": "ভুলে যাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "form": {
+      "word": "form",
+      "lemma": "form",
+      "meaning_bn": "রূপ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "free": {
+      "word": "free",
+      "lemma": "free",
+      "meaning_bn": "মুক্ত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "friend": {
+      "word": "friend",
+      "lemma": "friend",
+      "meaning_bn": "বন্ধু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "from": {
+      "word": "from",
+      "lemma": "from",
+      "meaning_bn": "থেকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "fruit": {
+      "word": "fruit",
+      "lemma": "fruit",
+      "meaning_bn": "ফল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "full": {
+      "word": "full",
+      "lemma": "full",
+      "meaning_bn": "পূর্ণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "future": {
+      "word": "future",
+      "lemma": "future",
+      "meaning_bn": "ভবিষ্যৎ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "garden": {
+      "word": "garden",
+      "lemma": "garden",
+      "meaning_bn": "বাগান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "gave": {
+      "word": "gave",
+      "lemma": "gave",
+      "meaning_bn": "দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "get": {
+      "word": "get",
+      "lemma": "get",
+      "meaning_bn": "পাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "gets": {
+      "word": "gets",
+      "lemma": "gets",
+      "meaning_bn": "পাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "getting": {
+      "word": "getting",
+      "lemma": "getting",
+      "meaning_bn": "পাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "girl": {
+      "word": "girl",
+      "lemma": "girl",
+      "meaning_bn": "মেয়ে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "give": {
+      "word": "give",
+      "lemma": "give",
+      "meaning_bn": "দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "gives": {
+      "word": "gives",
+      "lemma": "gives",
+      "meaning_bn": "দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "giving": {
+      "word": "giving",
+      "lemma": "giving",
+      "meaning_bn": "দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "global": {
+      "word": "global",
+      "lemma": "global",
+      "meaning_bn": "বৈশ্বিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "go": {
+      "word": "go",
+      "lemma": "go",
+      "meaning_bn": "যাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "goal": {
+      "word": "goal",
+      "lemma": "goal",
+      "meaning_bn": "লক্ষ্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "goes": {
+      "word": "goes",
+      "lemma": "goes",
+      "meaning_bn": "যাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "going": {
+      "word": "going",
+      "lemma": "going",
+      "meaning_bn": "যাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "good": {
+      "word": "good",
+      "lemma": "good",
+      "meaning_bn": "ভালো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "got": {
+      "word": "got",
+      "lemma": "got",
+      "meaning_bn": "পাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "government": {
+      "word": "government",
+      "lemma": "government",
+      "meaning_bn": "সরকার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "grammar": {
+      "word": "grammar",
+      "lemma": "grammar",
+      "meaning_bn": "ব্যাকরণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "group": {
+      "word": "group",
+      "lemma": "group",
+      "meaning_bn": "দল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "grow": {
+      "word": "grow",
+      "lemma": "grow",
+      "meaning_bn": "বেড়ে ওঠা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "growth": {
+      "word": "growth",
+      "lemma": "growth",
+      "meaning_bn": "বৃদ্ধি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "had": {
+      "word": "had",
+      "lemma": "had",
+      "meaning_bn": "ছিল / ছিলো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "hadn't": {
+      "word": "hadn't",
+      "lemma": "hadn't",
+      "meaning_bn": "ছিল না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "hand": {
+      "word": "hand",
+      "lemma": "hand",
+      "meaning_bn": "হাত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "happen": {
+      "word": "happen",
+      "lemma": "happen",
+      "meaning_bn": "ঘটা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hard": {
+      "word": "hard",
+      "lemma": "hard",
+      "meaning_bn": "কঠিন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hardware": {
+      "word": "hardware",
+      "lemma": "hardware",
+      "meaning_bn": "হার্ডওয়্যার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "has": {
+      "word": "has",
+      "lemma": "has",
+      "meaning_bn": "আছে / রয়েছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "hasn't": {
+      "word": "hasn't",
+      "lemma": "hasn't",
+      "meaning_bn": "হয়নি / নেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "hate": {
+      "word": "hate",
+      "lemma": "hate",
+      "meaning_bn": "ঘৃণা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "have": {
+      "word": "have",
+      "lemma": "have",
+      "meaning_bn": "আছে / থাকা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "haven't": {
+      "word": "haven't",
+      "lemma": "haven't",
+      "meaning_bn": "হয়নি / নেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "he": {
+      "word": "he",
+      "lemma": "he",
+      "meaning_bn": "সে / তিনি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "he's": {
+      "word": "he's",
+      "lemma": "he's",
+      "meaning_bn": "সে / তিনি আছেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "head": {
+      "word": "head",
+      "lemma": "head",
+      "meaning_bn": "মাথা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "health": {
+      "word": "health",
+      "lemma": "health",
+      "meaning_bn": "স্বাস্থ্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "healthy": {
+      "word": "healthy",
+      "lemma": "healthy",
+      "meaning_bn": "সুস্থ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hear": {
+      "word": "hear",
+      "lemma": "hear",
+      "meaning_bn": "শোনা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "heart": {
+      "word": "heart",
+      "lemma": "heart",
+      "meaning_bn": "হৃদয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hello": {
+      "word": "hello",
+      "lemma": "hello",
+      "meaning_bn": "হ্যালো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "help": {
+      "word": "help",
+      "lemma": "help",
+      "meaning_bn": "সাহায্য করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "helped": {
+      "word": "helped",
+      "lemma": "helped",
+      "meaning_bn": "সাহায্য করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "helping": {
+      "word": "helping",
+      "lemma": "helping",
+      "meaning_bn": "সাহায্য করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "helps": {
+      "word": "helps",
+      "lemma": "helps",
+      "meaning_bn": "সাহায্য করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "her": {
+      "word": "her",
+      "lemma": "her",
+      "meaning_bn": "তাকে / তার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "here": {
+      "word": "here",
+      "lemma": "here",
+      "meaning_bn": "এখানে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "hers": {
+      "word": "hers",
+      "lemma": "hers",
+      "meaning_bn": "তারটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "hi": {
+      "word": "hi",
+      "lemma": "hi",
+      "meaning_bn": "হাই / নমস্কার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "high": {
+      "word": "high",
+      "lemma": "high",
+      "meaning_bn": "উচ্চ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hill": {
+      "word": "hill",
+      "lemma": "hill",
+      "meaning_bn": "টিলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "him": {
+      "word": "him",
+      "lemma": "him",
+      "meaning_bn": "তাকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "his": {
+      "word": "his",
+      "lemma": "his",
+      "meaning_bn": "তার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "history": {
+      "word": "history",
+      "lemma": "history",
+      "meaning_bn": "ইতিহাস",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "home": {
+      "word": "home",
+      "lemma": "home",
+      "meaning_bn": "বাড়ি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hope": {
+      "word": "hope",
+      "lemma": "hope",
+      "meaning_bn": "আশা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hospital": {
+      "word": "hospital",
+      "lemma": "hospital",
+      "meaning_bn": "হাসপাতাল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hotel": {
+      "word": "hotel",
+      "lemma": "hotel",
+      "meaning_bn": "হোটেল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "hour": {
+      "word": "hour",
+      "lemma": "hour",
+      "meaning_bn": "ঘণ্টা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "house": {
+      "word": "house",
+      "lemma": "house",
+      "meaning_bn": "বাড়ি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "how": {
+      "word": "how",
+      "lemma": "how",
+      "meaning_bn": "কীভাবে / কত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "however": {
+      "word": "however",
+      "lemma": "however",
+      "meaning_bn": "তবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "human": {
+      "word": "human",
+      "lemma": "human",
+      "meaning_bn": "মানবিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "i": {
+      "word": "i",
+      "lemma": "i",
+      "meaning_bn": "আমি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "i'm": {
+      "word": "i'm",
+      "lemma": "i'm",
+      "meaning_bn": "আমি / আমি আছি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "idea": {
+      "word": "idea",
+      "lemma": "idea",
+      "meaning_bn": "ধারণা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "if": {
+      "word": "if",
+      "lemma": "if",
+      "meaning_bn": "যদি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "image": {
+      "word": "image",
+      "lemma": "image",
+      "meaning_bn": "ছবি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "important": {
+      "word": "important",
+      "lemma": "important",
+      "meaning_bn": "গুরুত্বপূর্ণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "in": {
+      "word": "in",
+      "lemma": "in",
+      "meaning_bn": "মধ্যে / ভিতরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "include": {
+      "word": "include",
+      "lemma": "include",
+      "meaning_bn": "অন্তর্ভুক্ত করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "included": {
+      "word": "included",
+      "lemma": "included",
+      "meaning_bn": "অন্তর্ভুক্ত করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "includes": {
+      "word": "includes",
+      "lemma": "includes",
+      "meaning_bn": "অন্তর্ভুক্ত করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "including": {
+      "word": "including",
+      "lemma": "including",
+      "meaning_bn": "অন্তর্ভুক্ত করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "increase": {
+      "word": "increase",
+      "lemma": "increase",
+      "meaning_bn": "বাড়ানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "increased": {
+      "word": "increased",
+      "lemma": "increased",
+      "meaning_bn": "বাড়ানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "increases": {
+      "word": "increases",
+      "lemma": "increases",
+      "meaning_bn": "বাড়ানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "increasing": {
+      "word": "increasing",
+      "lemma": "increasing",
+      "meaning_bn": "বাড়ানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "industry": {
+      "word": "industry",
+      "lemma": "industry",
+      "meaning_bn": "শিল্প",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "information": {
+      "word": "information",
+      "lemma": "information",
+      "meaning_bn": "তথ্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "inside": {
+      "word": "inside",
+      "lemma": "inside",
+      "meaning_bn": "ভিতরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "international": {
+      "word": "international",
+      "lemma": "international",
+      "meaning_bn": "আন্তর্জাতিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "internet": {
+      "word": "internet",
+      "lemma": "internet",
+      "meaning_bn": "ইন্টারনেট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "into": {
+      "word": "into",
+      "lemma": "into",
+      "meaning_bn": "ভেতরে / মধ্যে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "is": {
+      "word": "is",
+      "lemma": "is",
+      "meaning_bn": "হয় / আছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "isn't": {
+      "word": "isn't",
+      "lemma": "isn't",
+      "meaning_bn": "নয় / নেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "issue": {
+      "word": "issue",
+      "lemma": "issue",
+      "meaning_bn": "বিষয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "it": {
+      "word": "it",
+      "lemma": "it",
+      "meaning_bn": "এটি / এটা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "it's": {
+      "word": "it's",
+      "lemma": "it's",
+      "meaning_bn": "এটি / এটা হয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "job": {
+      "word": "job",
+      "lemma": "job",
+      "meaning_bn": "চাকরি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "journey": {
+      "word": "journey",
+      "lemma": "journey",
+      "meaning_bn": "যাত্রা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "just": {
+      "word": "just",
+      "lemma": "just",
+      "meaning_bn": "মাত্র / কেবল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "keep": {
+      "word": "keep",
+      "lemma": "keep",
+      "meaning_bn": "রাখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "kind": {
+      "word": "kind",
+      "lemma": "kind",
+      "meaning_bn": "ধরন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "know": {
+      "word": "know",
+      "lemma": "know",
+      "meaning_bn": "জানা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "knowledge": {
+      "word": "knowledge",
+      "lemma": "knowledge",
+      "meaning_bn": "জ্ঞান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "lake": {
+      "word": "lake",
+      "lemma": "lake",
+      "meaning_bn": "হ্রদ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "language": {
+      "word": "language",
+      "lemma": "language",
+      "meaning_bn": "ভাষা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "large": {
+      "word": "large",
+      "lemma": "large",
+      "meaning_bn": "বৃহৎ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "late": {
+      "word": "late",
+      "lemma": "late",
+      "meaning_bn": "দেরি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "law": {
+      "word": "law",
+      "lemma": "law",
+      "meaning_bn": "আইন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "lead": {
+      "word": "lead",
+      "lemma": "lead",
+      "meaning_bn": "নেতৃত্ব দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "leader": {
+      "word": "leader",
+      "lemma": "leader",
+      "meaning_bn": "নেতা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "learn": {
+      "word": "learn",
+      "lemma": "learn",
+      "meaning_bn": "শেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "learning": {
+      "word": "learning",
+      "lemma": "learning",
+      "meaning_bn": "শেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "learns": {
+      "word": "learns",
+      "lemma": "learns",
+      "meaning_bn": "শেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "lesson": {
+      "word": "lesson",
+      "lemma": "lesson",
+      "meaning_bn": "পাঠ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "let": {
+      "word": "let",
+      "lemma": "let",
+      "meaning_bn": "দিতে / অনুমতি দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "let's": {
+      "word": "let's",
+      "lemma": "let's",
+      "meaning_bn": "চলুন / চল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "level": {
+      "word": "level",
+      "lemma": "level",
+      "meaning_bn": "স্তর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "life": {
+      "word": "life",
+      "lemma": "life",
+      "meaning_bn": "জীবন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "light": {
+      "word": "light",
+      "lemma": "light",
+      "meaning_bn": "আলো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "like": {
+      "word": "like",
+      "lemma": "like",
+      "meaning_bn": "পছন্দ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "line": {
+      "word": "line",
+      "lemma": "line",
+      "meaning_bn": "রেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "listen": {
+      "word": "listen",
+      "lemma": "listen",
+      "meaning_bn": "শোনা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "little": {
+      "word": "little",
+      "lemma": "little",
+      "meaning_bn": "অল্প",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "live": {
+      "word": "live",
+      "lemma": "live",
+      "meaning_bn": "বাস করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "local": {
+      "word": "local",
+      "lemma": "local",
+      "meaning_bn": "স্থানীয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "long": {
+      "word": "long",
+      "lemma": "long",
+      "meaning_bn": "দীর্ঘ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "look": {
+      "word": "look",
+      "lemma": "look",
+      "meaning_bn": "তাকানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "lose": {
+      "word": "lose",
+      "lemma": "lose",
+      "meaning_bn": "হারা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "love": {
+      "word": "love",
+      "lemma": "love",
+      "meaning_bn": "ভালোবাসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "low": {
+      "word": "low",
+      "lemma": "low",
+      "meaning_bn": "নিম্ন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "made": {
+      "word": "made",
+      "lemma": "made",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "make": {
+      "word": "make",
+      "lemma": "make",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "makes": {
+      "word": "makes",
+      "lemma": "makes",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "making": {
+      "word": "making",
+      "lemma": "making",
+      "meaning_bn": "তৈরি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "man": {
+      "word": "man",
+      "lemma": "man",
+      "meaning_bn": "পুরুষ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "many": {
+      "word": "many",
+      "lemma": "many",
+      "meaning_bn": "অনেক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "market": {
+      "word": "market",
+      "lemma": "market",
+      "meaning_bn": "বাজার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "may": {
+      "word": "may",
+      "lemma": "may",
+      "meaning_bn": "পারা / হতে পারে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "maybe": {
+      "word": "maybe",
+      "lemma": "maybe",
+      "meaning_bn": "হয়তো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "me": {
+      "word": "me",
+      "lemma": "me",
+      "meaning_bn": "আমাকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "meaning": {
+      "word": "meaning",
+      "lemma": "meaning",
+      "meaning_bn": "অর্থ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "medicine": {
+      "word": "medicine",
+      "lemma": "medicine",
+      "meaning_bn": "ওষুধ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "meet": {
+      "word": "meet",
+      "lemma": "meet",
+      "meaning_bn": "দেখা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "member": {
+      "word": "member",
+      "lemma": "member",
+      "meaning_bn": "সদস্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "message": {
+      "word": "message",
+      "lemma": "message",
+      "meaning_bn": "বার্তা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "method": {
+      "word": "method",
+      "lemma": "method",
+      "meaning_bn": "পদ্ধতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "might": {
+      "word": "might",
+      "lemma": "might",
+      "meaning_bn": "সম্ভবত / হতে পারে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "milk": {
+      "word": "milk",
+      "lemma": "milk",
+      "meaning_bn": "দুধ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "mine": {
+      "word": "mine",
+      "lemma": "mine",
+      "meaning_bn": "আমারটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "minute": {
+      "word": "minute",
+      "lemma": "minute",
+      "meaning_bn": "মিনিট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "mobile": {
+      "word": "mobile",
+      "lemma": "mobile",
+      "meaning_bn": "মুঠোফোন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "modern": {
+      "word": "modern",
+      "lemma": "modern",
+      "meaning_bn": "আধুনিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "money": {
+      "word": "money",
+      "lemma": "money",
+      "meaning_bn": "টাকা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "month": {
+      "word": "month",
+      "lemma": "month",
+      "meaning_bn": "মাস",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "moon": {
+      "word": "moon",
+      "lemma": "moon",
+      "meaning_bn": "চাঁদ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "more": {
+      "word": "more",
+      "lemma": "more",
+      "meaning_bn": "আরও",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "morning": {
+      "word": "morning",
+      "lemma": "morning",
+      "meaning_bn": "সকাল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "most": {
+      "word": "most",
+      "lemma": "most",
+      "meaning_bn": "সর্বাধিক / অধিকাংশ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "mother": {
+      "word": "mother",
+      "lemma": "mother",
+      "meaning_bn": "মা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "mountain": {
+      "word": "mountain",
+      "lemma": "mountain",
+      "meaning_bn": "পাহাড়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "move": {
+      "word": "move",
+      "lemma": "move",
+      "meaning_bn": "সরানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "much": {
+      "word": "much",
+      "lemma": "much",
+      "meaning_bn": "অনেক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "must": {
+      "word": "must",
+      "lemma": "must",
+      "meaning_bn": "অবশ্যই করতে হবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "my": {
+      "word": "my",
+      "lemma": "my",
+      "meaning_bn": "আমার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "national": {
+      "word": "national",
+      "lemma": "national",
+      "meaning_bn": "জাতীয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "natural": {
+      "word": "natural",
+      "lemma": "natural",
+      "meaning_bn": "প্রাকৃতিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "nature": {
+      "word": "nature",
+      "lemma": "nature",
+      "meaning_bn": "প্রকৃতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "near": {
+      "word": "near",
+      "lemma": "near",
+      "meaning_bn": "কাছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "necessary": {
+      "word": "necessary",
+      "lemma": "necessary",
+      "meaning_bn": "প্রয়োজনীয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "need": {
+      "word": "need",
+      "lemma": "need",
+      "meaning_bn": "প্রয়োজন / দরকার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "needn": {
+      "word": "needn",
+      "lemma": "needn",
+      "meaning_bn": "প্রয়োজন নেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "neither": {
+      "word": "neither",
+      "lemma": "neither",
+      "meaning_bn": "দুটির কোনোটিই নয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "network": {
+      "word": "network",
+      "lemma": "network",
+      "meaning_bn": "নেটওয়ার্ক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "never": {
+      "word": "never",
+      "lemma": "never",
+      "meaning_bn": "কখনো নয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "new": {
+      "word": "new",
+      "lemma": "new",
+      "meaning_bn": "নতুন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "night": {
+      "word": "night",
+      "lemma": "night",
+      "meaning_bn": "রাত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "no": {
+      "word": "no",
+      "lemma": "no",
+      "meaning_bn": "না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "normally": {
+      "word": "normally",
+      "lemma": "normally",
+      "meaning_bn": "স্বাভাবিকভাবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "not": {
+      "word": "not",
+      "lemma": "not",
+      "meaning_bn": "না / নয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "noun": {
+      "word": "noun",
+      "lemma": "noun",
+      "meaning_bn": "বিশেষ্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "now": {
+      "word": "now",
+      "lemma": "now",
+      "meaning_bn": "এখন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "number": {
+      "word": "number",
+      "lemma": "number",
+      "meaning_bn": "সংখ্যা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "ocean": {
+      "word": "ocean",
+      "lemma": "ocean",
+      "meaning_bn": "মহাসাগর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "of": {
+      "word": "of",
+      "lemma": "of",
+      "meaning_bn": "এর / এর মধ্যে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "office": {
+      "word": "office",
+      "lemma": "office",
+      "meaning_bn": "অফিস",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "often": {
+      "word": "often",
+      "lemma": "often",
+      "meaning_bn": "প্রায়ই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "old": {
+      "word": "old",
+      "lemma": "old",
+      "meaning_bn": "বয়স্ক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "on": {
+      "word": "on",
+      "lemma": "on",
+      "meaning_bn": "উপর / চালু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "only": {
+      "word": "only",
+      "lemma": "only",
+      "meaning_bn": "শুধু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "onto": {
+      "word": "onto",
+      "lemma": "onto",
+      "meaning_bn": "উপর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "open": {
+      "word": "open",
+      "lemma": "open",
+      "meaning_bn": "খোলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "opened": {
+      "word": "opened",
+      "lemma": "opened",
+      "meaning_bn": "খোলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "opening": {
+      "word": "opening",
+      "lemma": "opening",
+      "meaning_bn": "খোলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "opens": {
+      "word": "opens",
+      "lemma": "opens",
+      "meaning_bn": "খোলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "opportunity": {
+      "word": "opportunity",
+      "lemma": "opportunity",
+      "meaning_bn": "সুযোগ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "or": {
+      "word": "or",
+      "lemma": "or",
+      "meaning_bn": "অথবা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "other": {
+      "word": "other",
+      "lemma": "other",
+      "meaning_bn": "অন্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "others": {
+      "word": "others",
+      "lemma": "others",
+      "meaning_bn": "অন্যরা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "ought": {
+      "word": "ought",
+      "lemma": "ought",
+      "meaning_bn": "উচিত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "our": {
+      "word": "our",
+      "lemma": "our",
+      "meaning_bn": "আমাদের",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "ours": {
+      "word": "ours",
+      "lemma": "ours",
+      "meaning_bn": "আমাদেরটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "outside": {
+      "word": "outside",
+      "lemma": "outside",
+      "meaning_bn": "বাইরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "over": {
+      "word": "over",
+      "lemma": "over",
+      "meaning_bn": "উপর / শেষ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "own": {
+      "word": "own",
+      "lemma": "own",
+      "meaning_bn": "নিজস্ব",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "owner": {
+      "word": "owner",
+      "lemma": "owner",
+      "meaning_bn": "মালিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "page": {
+      "word": "page",
+      "lemma": "page",
+      "meaning_bn": "পৃষ্ঠা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "pain": {
+      "word": "pain",
+      "lemma": "pain",
+      "meaning_bn": "ব্যথা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "parent": {
+      "word": "parent",
+      "lemma": "parent",
+      "meaning_bn": "অভিভাবক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "park": {
+      "word": "park",
+      "lemma": "park",
+      "meaning_bn": "উদ্যান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "part": {
+      "word": "part",
+      "lemma": "part",
+      "meaning_bn": "অংশ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "past": {
+      "word": "past",
+      "lemma": "past",
+      "meaning_bn": "অতীত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "patient": {
+      "word": "patient",
+      "lemma": "patient",
+      "meaning_bn": "রোগী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "pay": {
+      "word": "pay",
+      "lemma": "pay",
+      "meaning_bn": "পরিশোধ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "people": {
+      "word": "people",
+      "lemma": "people",
+      "meaning_bn": "মানুষ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "per": {
+      "word": "per",
+      "lemma": "per",
+      "meaning_bn": "প্রতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "perhaps": {
+      "word": "perhaps",
+      "lemma": "perhaps",
+      "meaning_bn": "সম্ভবত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "person": {
+      "word": "person",
+      "lemma": "person",
+      "meaning_bn": "ব্যক্তি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "phone": {
+      "word": "phone",
+      "lemma": "phone",
+      "meaning_bn": "ফোন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "photo": {
+      "word": "photo",
+      "lemma": "photo",
+      "meaning_bn": "ছবি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "place": {
+      "word": "place",
+      "lemma": "place",
+      "meaning_bn": "স্থান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "plan": {
+      "word": "plan",
+      "lemma": "plan",
+      "meaning_bn": "পরিকল্পনা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "plane": {
+      "word": "plane",
+      "lemma": "plane",
+      "meaning_bn": "বিমান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "plant": {
+      "word": "plant",
+      "lemma": "plant",
+      "meaning_bn": "উদ্ভিদ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "play": {
+      "word": "play",
+      "lemma": "play",
+      "meaning_bn": "খেলা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "please": {
+      "word": "please",
+      "lemma": "please",
+      "meaning_bn": "অনুগ্রহ করে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "point": {
+      "word": "point",
+      "lemma": "point",
+      "meaning_bn": "বিন্দু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "policy": {
+      "word": "policy",
+      "lemma": "policy",
+      "meaning_bn": "নীতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "political": {
+      "word": "political",
+      "lemma": "political",
+      "meaning_bn": "রাজনৈতিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "possible": {
+      "word": "possible",
+      "lemma": "possible",
+      "meaning_bn": "সম্ভব",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "power": {
+      "word": "power",
+      "lemma": "power",
+      "meaning_bn": "ক্ষমতা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "preposition": {
+      "word": "preposition",
+      "lemma": "preposition",
+      "meaning_bn": "পদান্বয়ী অব্যয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "present": {
+      "word": "present",
+      "lemma": "present",
+      "meaning_bn": "বর্তমান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "price": {
+      "word": "price",
+      "lemma": "price",
+      "meaning_bn": "দাম",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "private": {
+      "word": "private",
+      "lemma": "private",
+      "meaning_bn": "ব্যক্তিগত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "problem": {
+      "word": "problem",
+      "lemma": "problem",
+      "meaning_bn": "সমস্যা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "process": {
+      "word": "process",
+      "lemma": "process",
+      "meaning_bn": "প্রক্রিয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "program": {
+      "word": "program",
+      "lemma": "program",
+      "meaning_bn": "প্রোগ্রাম",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "project": {
+      "word": "project",
+      "lemma": "project",
+      "meaning_bn": "প্রকল্প",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "pronoun": {
+      "word": "pronoun",
+      "lemma": "pronoun",
+      "meaning_bn": "সর্বনাম",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "provide": {
+      "word": "provide",
+      "lemma": "provide",
+      "meaning_bn": "সরবরাহ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "provided": {
+      "word": "provided",
+      "lemma": "provided",
+      "meaning_bn": "সরবরাহ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "provides": {
+      "word": "provides",
+      "lemma": "provides",
+      "meaning_bn": "সরবরাহ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "providing": {
+      "word": "providing",
+      "lemma": "providing",
+      "meaning_bn": "সরবরাহ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "public": {
+      "word": "public",
+      "lemma": "public",
+      "meaning_bn": "জনসাধারণের",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "purpose": {
+      "word": "purpose",
+      "lemma": "purpose",
+      "meaning_bn": "উদ্দেশ্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "put": {
+      "word": "put",
+      "lemma": "put",
+      "meaning_bn": "রাখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "question": {
+      "word": "question",
+      "lemma": "question",
+      "meaning_bn": "প্রশ্ন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "quick": {
+      "word": "quick",
+      "lemma": "quick",
+      "meaning_bn": "দ্রুত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "quickly": {
+      "word": "quickly",
+      "lemma": "quickly",
+      "meaning_bn": "দ্রুতভাবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "quite": {
+      "word": "quite",
+      "lemma": "quite",
+      "meaning_bn": "বেশ / যথেষ্ট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "rain": {
+      "word": "rain",
+      "lemma": "rain",
+      "meaning_bn": "বৃষ্টি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "rather": {
+      "word": "rather",
+      "lemma": "rather",
+      "meaning_bn": "বরং",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "reach": {
+      "word": "reach",
+      "lemma": "reach",
+      "meaning_bn": "পৌঁছানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "read": {
+      "word": "read",
+      "lemma": "read",
+      "meaning_bn": "পড়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "reader": {
+      "word": "reader",
+      "lemma": "reader",
+      "meaning_bn": "পাঠক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "readers": {
+      "word": "readers",
+      "lemma": "readers",
+      "meaning_bn": "পাঠক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "reading": {
+      "word": "reading",
+      "lemma": "reading",
+      "meaning_bn": "পড়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "reads": {
+      "word": "reads",
+      "lemma": "reads",
+      "meaning_bn": "পড়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "ready": {
+      "word": "ready",
+      "lemma": "ready",
+      "meaning_bn": "প্রস্তুত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "really": {
+      "word": "really",
+      "lemma": "really",
+      "meaning_bn": "সত্যিই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "reason": {
+      "word": "reason",
+      "lemma": "reason",
+      "meaning_bn": "কারণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "relationship": {
+      "word": "relationship",
+      "lemma": "relationship",
+      "meaning_bn": "সম্পর্ক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "remain": {
+      "word": "remain",
+      "lemma": "remain",
+      "meaning_bn": "অবশিষ্ট থাকা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "remember": {
+      "word": "remember",
+      "lemma": "remember",
+      "meaning_bn": "মনে রাখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "research": {
+      "word": "research",
+      "lemma": "research",
+      "meaning_bn": "গবেষণা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "result": {
+      "word": "result",
+      "lemma": "result",
+      "meaning_bn": "ফলাফল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "return": {
+      "word": "return",
+      "lemma": "return",
+      "meaning_bn": "ফিরে আসা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "rice": {
+      "word": "rice",
+      "lemma": "rice",
+      "meaning_bn": "ভাত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "right": {
+      "word": "right",
+      "lemma": "right",
+      "meaning_bn": "সঠিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "risk": {
+      "word": "risk",
+      "lemma": "risk",
+      "meaning_bn": "ঝুঁকি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "river": {
+      "word": "river",
+      "lemma": "river",
+      "meaning_bn": "নদী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "road": {
+      "word": "road",
+      "lemma": "road",
+      "meaning_bn": "সড়ক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "room": {
+      "word": "room",
+      "lemma": "room",
+      "meaning_bn": "কক্ষ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "safe": {
+      "word": "safe",
+      "lemma": "safe",
+      "meaning_bn": "নিরাপদ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "same": {
+      "word": "same",
+      "lemma": "same",
+      "meaning_bn": "একই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "say": {
+      "word": "say",
+      "lemma": "say",
+      "meaning_bn": "বলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "school": {
+      "word": "school",
+      "lemma": "school",
+      "meaning_bn": "স্কুল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "science": {
+      "word": "science",
+      "lemma": "science",
+      "meaning_bn": "বিজ্ঞান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "screen": {
+      "word": "screen",
+      "lemma": "screen",
+      "meaning_bn": "পর্দা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "sea": {
+      "word": "sea",
+      "lemma": "sea",
+      "meaning_bn": "সমুদ্র",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "second": {
+      "word": "second",
+      "lemma": "second",
+      "meaning_bn": "সেকেন্ড",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "see": {
+      "word": "see",
+      "lemma": "see",
+      "meaning_bn": "দেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "seem": {
+      "word": "seem",
+      "lemma": "seem",
+      "meaning_bn": "মনে হওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "sell": {
+      "word": "sell",
+      "lemma": "sell",
+      "meaning_bn": "বিক্রি করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "send": {
+      "word": "send",
+      "lemma": "send",
+      "meaning_bn": "পাঠানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "sentence": {
+      "word": "sentence",
+      "lemma": "sentence",
+      "meaning_bn": "বাক্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "service": {
+      "word": "service",
+      "lemma": "service",
+      "meaning_bn": "সেবা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "shall": {
+      "word": "shall",
+      "lemma": "shall",
+      "meaning_bn": "করবে / করা হবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "she": {
+      "word": "she",
+      "lemma": "she",
+      "meaning_bn": "সে / তিনি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "she's": {
+      "word": "she's",
+      "lemma": "she's",
+      "meaning_bn": "সে / তিনি আছেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "shop": {
+      "word": "shop",
+      "lemma": "shop",
+      "meaning_bn": "দোকান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "short": {
+      "word": "short",
+      "lemma": "short",
+      "meaning_bn": "ছোট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "should": {
+      "word": "should",
+      "lemma": "should",
+      "meaning_bn": "উচিত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "shouldn't": {
+      "word": "shouldn't",
+      "lemma": "shouldn't",
+      "meaning_bn": "উচিত নয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "show": {
+      "word": "show",
+      "lemma": "show",
+      "meaning_bn": "দেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "showed": {
+      "word": "showed",
+      "lemma": "showed",
+      "meaning_bn": "দেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "showing": {
+      "word": "showing",
+      "lemma": "showing",
+      "meaning_bn": "দেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "shows": {
+      "word": "shows",
+      "lemma": "shows",
+      "meaning_bn": "দেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "sick": {
+      "word": "sick",
+      "lemma": "sick",
+      "meaning_bn": "অসুস্থ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "similar": {
+      "word": "similar",
+      "lemma": "similar",
+      "meaning_bn": "অনুরূপ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "simple": {
+      "word": "simple",
+      "lemma": "simple",
+      "meaning_bn": "সহজ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "since": {
+      "word": "since",
+      "lemma": "since",
+      "meaning_bn": "থেকে / যেহেতু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "sister": {
+      "word": "sister",
+      "lemma": "sister",
+      "meaning_bn": "বোন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "sky": {
+      "word": "sky",
+      "lemma": "sky",
+      "meaning_bn": "আকাশ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "slow": {
+      "word": "slow",
+      "lemma": "slow",
+      "meaning_bn": "ধীর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "slowly": {
+      "word": "slowly",
+      "lemma": "slowly",
+      "meaning_bn": "ধীরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "small": {
+      "word": "small",
+      "lemma": "small",
+      "meaning_bn": "ছোট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "so": {
+      "word": "so",
+      "lemma": "so",
+      "meaning_bn": "তাই / এত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "social": {
+      "word": "social",
+      "lemma": "social",
+      "meaning_bn": "সামাজিক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "society": {
+      "word": "society",
+      "lemma": "society",
+      "meaning_bn": "সমাজ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "software": {
+      "word": "software",
+      "lemma": "software",
+      "meaning_bn": "সফটওয়্যার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "solution": {
+      "word": "solution",
+      "lemma": "solution",
+      "meaning_bn": "সমাধান",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "some": {
+      "word": "some",
+      "lemma": "some",
+      "meaning_bn": "কিছু",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "sometimes": {
+      "word": "sometimes",
+      "lemma": "sometimes",
+      "meaning_bn": "মাঝে মাঝে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "sorry": {
+      "word": "sorry",
+      "lemma": "sorry",
+      "meaning_bn": "দুঃখিত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "speak": {
+      "word": "speak",
+      "lemma": "speak",
+      "meaning_bn": "কথা বলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "special": {
+      "word": "special",
+      "lemma": "special",
+      "meaning_bn": "বিশেষ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "star": {
+      "word": "star",
+      "lemma": "star",
+      "meaning_bn": "তারা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "start": {
+      "word": "start",
+      "lemma": "start",
+      "meaning_bn": "শুরু করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "started": {
+      "word": "started",
+      "lemma": "started",
+      "meaning_bn": "শুরু করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "starting": {
+      "word": "starting",
+      "lemma": "starting",
+      "meaning_bn": "শুরু করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "starts": {
+      "word": "starts",
+      "lemma": "starts",
+      "meaning_bn": "শুরু করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "station": {
+      "word": "station",
+      "lemma": "station",
+      "meaning_bn": "স্টেশন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "still": {
+      "word": "still",
+      "lemma": "still",
+      "meaning_bn": "এখনও",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "stop": {
+      "word": "stop",
+      "lemma": "stop",
+      "meaning_bn": "থামা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "street": {
+      "word": "street",
+      "lemma": "street",
+      "meaning_bn": "রাস্তা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "strong": {
+      "word": "strong",
+      "lemma": "strong",
+      "meaning_bn": "শক্তিশালী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "strongly": {
+      "word": "strongly",
+      "lemma": "strongly",
+      "meaning_bn": "দৃঢ়ভাবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "student": {
+      "word": "student",
+      "lemma": "student",
+      "meaning_bn": "শিক্ষার্থী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "studied": {
+      "word": "studied",
+      "lemma": "studied",
+      "meaning_bn": "পড়াশোনা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "studies": {
+      "word": "studies",
+      "lemma": "studies",
+      "meaning_bn": "পড়াশোনা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "study": {
+      "word": "study",
+      "lemma": "study",
+      "meaning_bn": "পড়াশোনা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "studying": {
+      "word": "studying",
+      "lemma": "studying",
+      "meaning_bn": "পড়াশোনা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "success": {
+      "word": "success",
+      "lemma": "success",
+      "meaning_bn": "সাফল্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "such": {
+      "word": "such",
+      "lemma": "such",
+      "meaning_bn": "এমন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "sun": {
+      "word": "sun",
+      "lemma": "sun",
+      "meaning_bn": "সূর্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "support": {
+      "word": "support",
+      "lemma": "support",
+      "meaning_bn": "সমর্থন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "system": {
+      "word": "system",
+      "lemma": "system",
+      "meaning_bn": "ব্যবস্থা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "take": {
+      "word": "take",
+      "lemma": "take",
+      "meaning_bn": "নেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "takes": {
+      "word": "takes",
+      "lemma": "takes",
+      "meaning_bn": "নেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "taking": {
+      "word": "taking",
+      "lemma": "taking",
+      "meaning_bn": "নেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "talk": {
+      "word": "talk",
+      "lemma": "talk",
+      "meaning_bn": "কথা বলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "tea": {
+      "word": "tea",
+      "lemma": "tea",
+      "meaning_bn": "চা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "teach": {
+      "word": "teach",
+      "lemma": "teach",
+      "meaning_bn": "শেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "teacher": {
+      "word": "teacher",
+      "lemma": "teacher",
+      "meaning_bn": "শিক্ষক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "teaches": {
+      "word": "teaches",
+      "lemma": "teaches",
+      "meaning_bn": "শেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "teaching": {
+      "word": "teaching",
+      "lemma": "teaching",
+      "meaning_bn": "শেখানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "technology": {
+      "word": "technology",
+      "lemma": "technology",
+      "meaning_bn": "প্রযুক্তি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "tell": {
+      "word": "tell",
+      "lemma": "tell",
+      "meaning_bn": "বলা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "than": {
+      "word": "than",
+      "lemma": "than",
+      "meaning_bn": "চেয়ে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "thank": {
+      "word": "thank",
+      "lemma": "thank",
+      "meaning_bn": "ধন্যবাদ দেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "thanks": {
+      "word": "thanks",
+      "lemma": "thanks",
+      "meaning_bn": "ধন্যবাদ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "that": {
+      "word": "that",
+      "lemma": "that",
+      "meaning_bn": "ওটি / যে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "the": {
+      "word": "the",
+      "lemma": "the",
+      "meaning_bn": "উক্ত / ওই / সেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "their": {
+      "word": "their",
+      "lemma": "their",
+      "meaning_bn": "তাদের",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "theirs": {
+      "word": "theirs",
+      "lemma": "theirs",
+      "meaning_bn": "তাদেরটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "them": {
+      "word": "them",
+      "lemma": "them",
+      "meaning_bn": "তাদের / তাদেরকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "then": {
+      "word": "then",
+      "lemma": "then",
+      "meaning_bn": "তখন / তারপর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "there": {
+      "word": "there",
+      "lemma": "there",
+      "meaning_bn": "সেখানে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "therefore": {
+      "word": "therefore",
+      "lemma": "therefore",
+      "meaning_bn": "অতএব",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "these": {
+      "word": "these",
+      "lemma": "these",
+      "meaning_bn": "এগুলো / এইগুলো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "they": {
+      "word": "they",
+      "lemma": "they",
+      "meaning_bn": "তারা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "they're": {
+      "word": "they're",
+      "lemma": "they're",
+      "meaning_bn": "তারা আছে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "think": {
+      "word": "think",
+      "lemma": "think",
+      "meaning_bn": "ভাবা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "this": {
+      "word": "this",
+      "lemma": "this",
+      "meaning_bn": "এটি / এই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "those": {
+      "word": "those",
+      "lemma": "those",
+      "meaning_bn": "ওগুলো / সেগুলো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "though": {
+      "word": "though",
+      "lemma": "though",
+      "meaning_bn": "যদিও",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "through": {
+      "word": "through",
+      "lemma": "through",
+      "meaning_bn": "মধ্য দিয়ে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "ticket": {
+      "word": "ticket",
+      "lemma": "ticket",
+      "meaning_bn": "টিকিট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "time": {
+      "word": "time",
+      "lemma": "time",
+      "meaning_bn": "সময়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "to": {
+      "word": "to",
+      "lemma": "to",
+      "meaning_bn": "দিকে / প্রতি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "today": {
+      "word": "today",
+      "lemma": "today",
+      "meaning_bn": "আজ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "together": {
+      "word": "together",
+      "lemma": "together",
+      "meaning_bn": "একসঙ্গে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "tomorrow": {
+      "word": "tomorrow",
+      "lemma": "tomorrow",
+      "meaning_bn": "আগামীকাল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "too": {
+      "word": "too",
+      "lemma": "too",
+      "meaning_bn": "অতিরিক্ত / এছাড়াও",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "took": {
+      "word": "took",
+      "lemma": "took",
+      "meaning_bn": "নেওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "toward": {
+      "word": "toward",
+      "lemma": "toward",
+      "meaning_bn": "দিকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "towards": {
+      "word": "towards",
+      "lemma": "towards",
+      "meaning_bn": "দিকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "town": {
+      "word": "town",
+      "lemma": "town",
+      "meaning_bn": "শহর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "train": {
+      "word": "train",
+      "lemma": "train",
+      "meaning_bn": "ট্রেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "translation": {
+      "word": "translation",
+      "lemma": "translation",
+      "meaning_bn": "অনুবাদ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "travel": {
+      "word": "travel",
+      "lemma": "travel",
+      "meaning_bn": "ভ্রমণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "tree": {
+      "word": "tree",
+      "lemma": "tree",
+      "meaning_bn": "গাছ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "trip": {
+      "word": "trip",
+      "lemma": "trip",
+      "meaning_bn": "ভ্রমণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "true": {
+      "word": "true",
+      "lemma": "true",
+      "meaning_bn": "সত্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "try": {
+      "word": "try",
+      "lemma": "try",
+      "meaning_bn": "চেষ্টা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "turn": {
+      "word": "turn",
+      "lemma": "turn",
+      "meaning_bn": "ঘোরানো",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "type": {
+      "word": "type",
+      "lemma": "type",
+      "meaning_bn": "প্রকার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "under": {
+      "word": "under",
+      "lemma": "under",
+      "meaning_bn": "নিচে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "understand": {
+      "word": "understand",
+      "lemma": "understand",
+      "meaning_bn": "বোঝা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "university": {
+      "word": "university",
+      "lemma": "university",
+      "meaning_bn": "বিশ্ববিদ্যালয়",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "unless": {
+      "word": "unless",
+      "lemma": "unless",
+      "meaning_bn": "যদি না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "until": {
+      "word": "until",
+      "lemma": "until",
+      "meaning_bn": "যতক্ষণ না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "upon": {
+      "word": "upon",
+      "lemma": "upon",
+      "meaning_bn": "উপর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "us": {
+      "word": "us",
+      "lemma": "us",
+      "meaning_bn": "আমাদের / আমাদেরকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "use": {
+      "word": "use",
+      "lemma": "use",
+      "meaning_bn": "ব্যবহার করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "used": {
+      "word": "used",
+      "lemma": "used",
+      "meaning_bn": "ব্যবহৃত / অভ্যস্ত ছিল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "useful": {
+      "word": "useful",
+      "lemma": "useful",
+      "meaning_bn": "উপকারী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "uses": {
+      "word": "uses",
+      "lemma": "uses",
+      "meaning_bn": "ব্যবহার করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "using": {
+      "word": "using",
+      "lemma": "using",
+      "meaning_bn": "ব্যবহার করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "usually": {
+      "word": "usually",
+      "lemma": "usually",
+      "meaning_bn": "সাধারণত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "value": {
+      "word": "value",
+      "lemma": "value",
+      "meaning_bn": "মূল্য",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "vegetable": {
+      "word": "vegetable",
+      "lemma": "vegetable",
+      "meaning_bn": "সবজি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "verb": {
+      "word": "verb",
+      "lemma": "verb",
+      "meaning_bn": "ক্রিয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "very": {
+      "word": "very",
+      "lemma": "very",
+      "meaning_bn": "খুব",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "village": {
+      "word": "village",
+      "lemma": "village",
+      "meaning_bn": "গ্রাম",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "vocabulary": {
+      "word": "vocabulary",
+      "lemma": "vocabulary",
+      "meaning_bn": "শব্দভাণ্ডার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "wait": {
+      "word": "wait",
+      "lemma": "wait",
+      "meaning_bn": "অপেক্ষা করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "want": {
+      "word": "want",
+      "lemma": "want",
+      "meaning_bn": "চাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "was": {
+      "word": "was",
+      "lemma": "was",
+      "meaning_bn": "ছিল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "wasn't": {
+      "word": "wasn't",
+      "lemma": "wasn't",
+      "meaning_bn": "ছিল না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "watch": {
+      "word": "watch",
+      "lemma": "watch",
+      "meaning_bn": "দেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "water": {
+      "word": "water",
+      "lemma": "water",
+      "meaning_bn": "পানি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "we": {
+      "word": "we",
+      "lemma": "we",
+      "meaning_bn": "আমরা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "we're": {
+      "word": "we're",
+      "lemma": "we're",
+      "meaning_bn": "আমরা আছি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "weak": {
+      "word": "weak",
+      "lemma": "weak",
+      "meaning_bn": "দুর্বল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "weather": {
+      "word": "weather",
+      "lemma": "weather",
+      "meaning_bn": "আবহাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "website": {
+      "word": "website",
+      "lemma": "website",
+      "meaning_bn": "ওয়েবসাইট",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "week": {
+      "word": "week",
+      "lemma": "week",
+      "meaning_bn": "সপ্তাহ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "welcome": {
+      "word": "welcome",
+      "lemma": "welcome",
+      "meaning_bn": "স্বাগতম",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "went": {
+      "word": "went",
+      "lemma": "went",
+      "meaning_bn": "যাওয়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "were": {
+      "word": "were",
+      "lemma": "were",
+      "meaning_bn": "ছিল / ছিলেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "weren't": {
+      "word": "weren't",
+      "lemma": "weren't",
+      "meaning_bn": "ছিল না / ছিলেন না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "what": {
+      "word": "what",
+      "lemma": "what",
+      "meaning_bn": "কী / যা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "whatever": {
+      "word": "whatever",
+      "lemma": "whatever",
+      "meaning_bn": "যাই হোক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "when": {
+      "word": "when",
+      "lemma": "when",
+      "meaning_bn": "কখন / যখন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "where": {
+      "word": "where",
+      "lemma": "where",
+      "meaning_bn": "কোথায় / যেখানে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "wherever": {
+      "word": "wherever",
+      "lemma": "wherever",
+      "meaning_bn": "যেখানেই",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "which": {
+      "word": "which",
+      "lemma": "which",
+      "meaning_bn": "কোনটি / যা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "while": {
+      "word": "while",
+      "lemma": "while",
+      "meaning_bn": "যখন / যতক্ষণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "who": {
+      "word": "who",
+      "lemma": "who",
+      "meaning_bn": "কে / যিনি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "whom": {
+      "word": "whom",
+      "lemma": "whom",
+      "meaning_bn": "কাকে / যাকে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "whose": {
+      "word": "whose",
+      "lemma": "whose",
+      "meaning_bn": "কার / যার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "why": {
+      "word": "why",
+      "lemma": "why",
+      "meaning_bn": "কেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "will": {
+      "word": "will",
+      "lemma": "will",
+      "meaning_bn": "করবে / হবে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "win": {
+      "word": "win",
+      "lemma": "win",
+      "meaning_bn": "জেতা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "window": {
+      "word": "window",
+      "lemma": "window",
+      "meaning_bn": "জানালা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "with": {
+      "word": "with",
+      "lemma": "with",
+      "meaning_bn": "সঙ্গে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "within": {
+      "word": "within",
+      "lemma": "within",
+      "meaning_bn": "মধ্যে / অভ্যন্তরে",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "without": {
+      "word": "without",
+      "lemma": "without",
+      "meaning_bn": "ছাড়া",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "woman": {
+      "word": "woman",
+      "lemma": "woman",
+      "meaning_bn": "নারী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "won't": {
+      "word": "won't",
+      "lemma": "won't",
+      "meaning_bn": "করবে না / হবে না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "word": {
+      "word": "word",
+      "lemma": "word",
+      "meaning_bn": "শব্দ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "work": {
+      "word": "work",
+      "lemma": "work",
+      "meaning_bn": "কাজ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "worked": {
+      "word": "worked",
+      "lemma": "worked",
+      "meaning_bn": "কাজ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "worker": {
+      "word": "worker",
+      "lemma": "worker",
+      "meaning_bn": "কর্মী",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "working": {
+      "word": "working",
+      "lemma": "working",
+      "meaning_bn": "কাজ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "works": {
+      "word": "works",
+      "lemma": "works",
+      "meaning_bn": "কাজ করা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "world": {
+      "word": "world",
+      "lemma": "world",
+      "meaning_bn": "বিশ্ব",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "would": {
+      "word": "would",
+      "lemma": "would",
+      "meaning_bn": "করত / করতেন",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "wouldn't": {
+      "word": "wouldn't",
+      "lemma": "wouldn't",
+      "meaning_bn": "করত না",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "write": {
+      "word": "write",
+      "lemma": "write",
+      "meaning_bn": "লেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "writer": {
+      "word": "writer",
+      "lemma": "writer",
+      "meaning_bn": "লেখক",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "writes": {
+      "word": "writes",
+      "lemma": "writes",
+      "meaning_bn": "লেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "writing": {
+      "word": "writing",
+      "lemma": "writing",
+      "meaning_bn": "লেখা",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "written": {
+      "word": "written",
+      "lemma": "written",
+      "meaning_bn": "লিখিত",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "wrong": {
+      "word": "wrong",
+      "lemma": "wrong",
+      "meaning_bn": "ভুল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "year": {
+      "word": "year",
+      "lemma": "year",
+      "meaning_bn": "বছর",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "yes": {
+      "word": "yes",
+      "lemma": "yes",
+      "meaning_bn": "হ্যাঁ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "yesterday": {
+      "word": "yesterday",
+      "lemma": "yesterday",
+      "meaning_bn": "গতকাল",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "you": {
+      "word": "you",
+      "lemma": "you",
+      "meaning_bn": "তুমি / আপনি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "you're": {
+      "word": "you're",
+      "lemma": "you're",
+      "meaning_bn": "তুমি / আপনি আছ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Grammar Variant Pack v1.1"
+    },
+    "young": {
+      "word": "young",
+      "lemma": "young",
+      "meaning_bn": "তরুণ",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Curated Core Seed"
+    },
+    "your": {
+      "word": "your",
+      "lemma": "your",
+      "meaning_bn": "তোমার / আপনার",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    },
+    "yours": {
+      "word": "yours",
+      "lemma": "yours",
+      "meaning_bn": "তোমারটি / আপনারটি",
+      "pos": null,
+      "level": null,
+      "approved": true,
+      "safe": true,
+      "source": "ArthoLingo Core Grammar & Function Pack v1.1"
+    }
+  },
+  "stats": {
+    "approved": 669
+  }
+}

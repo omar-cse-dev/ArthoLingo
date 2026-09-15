@@ -1,0 +1,14 @@
+{
+  "project": "ArthoLingo",
+  "version": "2.5.0",
+  "architecture": "modular-local-dictionary",
+  "runtime_dictionary": "artholingo-dictionary.json",
+  "lexical_candidates": "artholingo-lexicon-10k.txt",
+  "dictionary_approved_entries": 669,
+  "lexical_candidate_count": 10000,
+  "word_meaning_external_api": false,
+  "unknown_word_policy": "do_not_guess",
+  "sentence_translation_external_api": true,
+  "safety_gate_before_sentence_translation": true,
+  "icons_directory": "assets/icons"
+}
